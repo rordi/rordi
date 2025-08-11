@@ -8,6 +8,6 @@ Dietrich Rordorf is a seasoned information systems and publishing professional w
 
 ## Technical Skillset
 - Experienced in software architecture, DevOps, Agile (Scrum), clean code, Docker, TypeScript, JavaScript, Node.js, Nuxt.js, Vue.js, Python, R, LaTeX, PHP, Symfony framework, SQL, APIs and authentication, testing incl. unit testing, e2e testing, regression testing, API testing, git, bash. 
-- Good notions and basic hands on experience with AI: data science, NLP, vector stores, RDF knowledge graphs and language models.
+- Good notions and basic hands on experience with AI: data science, NLP, vector stores, RDF knowledge graphs and large language models (LLMs).
 
 
